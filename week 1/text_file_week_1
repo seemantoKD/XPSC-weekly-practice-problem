@@ -1,0 +1,7 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+  cout<<"Here is 21 problems solution for week 1"<<endl;
+  return 0;
+}
